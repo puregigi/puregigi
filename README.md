@@ -26,7 +26,7 @@
   </br>
   <samp>↪ 𝙴𝚗𝚟 ⟶ 𝙽𝚒𝚡 𝚍𝚎𝚟 𝚜𝚑𝚎𝚕𝚕𝚜 </samp>
   </br>
-  <samp>↪ 𝙳𝚘𝚝𝚏𝚒𝚕𝚎𝚜 ⟶ <a href="https://github.com/puregigi/nixos-config">𝚗𝚒𝚡𝚘𝚜-𝚌𝚘𝚗𝚏𝚒𝚐</a></samp> 
+  <samp>↪ 𝙽𝚒𝚡 𝚏𝚒𝚕𝚎𝚜 ⟶ <a href="https://github.com/puregigi/nixos-config">𝚗𝚒𝚡𝚘𝚜-𝚌𝚘𝚗𝚏𝚒𝚐</a></samp> 
 
 </br>
 
